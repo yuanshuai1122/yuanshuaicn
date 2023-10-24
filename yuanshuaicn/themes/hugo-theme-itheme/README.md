@@ -34,7 +34,7 @@ Then you can visit `http://localhost:1313` to see the demo site!
 
 ```bash
 git submodule add https://github.com/floyd-li/hugo-theme-itheme.git themes/hugo-theme-itheme
-echo "theme = 'hugo-theme-itheme'" >> config.toml
+echo "theme = 'hugo-theme-itheme'" >> config.toml.bak
 ```
 
 Then you need to add some configuration to `config.toml`, please flow the [Site Configuration](#site-configuration).

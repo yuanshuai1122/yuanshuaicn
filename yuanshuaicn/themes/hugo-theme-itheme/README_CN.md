@@ -34,7 +34,7 @@ cd ./my-site && hugo server -D
 
 ```bash
 git submodule add https://github.com/floyd-li/hugo-theme-itheme.git themes/hugo-theme-itheme
-echo "theme = 'hugo-theme-itheme'" >> config.toml
+echo "theme = 'hugo-theme-itheme'" >> config.toml.bak
 ```
 
 可能需要在`config.toml`文件中添加一些配置，请参考后文的[站点配置](#site-configuration)
