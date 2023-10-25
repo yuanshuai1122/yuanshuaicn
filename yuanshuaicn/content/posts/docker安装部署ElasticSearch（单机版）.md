@@ -1,16 +1,12 @@
 ---
 title: docker安装部署ElasticSearch（单机版）
 date: 2023-07-19 18:12:20.377
-author:
-  name: "yuanshuai"
-  link: "https://cloud.tencent.com/developer/user/8180692"
-  email: "shuaiyuan1122@gmail.com"
-  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/04250938356037155.jpg"
-images: 'https://aabb-2023.oss-cn-beijing.aliyuncs.com/1_DfBbVqPXfIXGFQCa1BrV8g.jpg'
+author: 'yuanshuai'
+cover: 'https://aabb-2023.oss-cn-beijing.aliyuncs.com/1_DfBbVqPXfIXGFQCa1BrV8g.jpg'
 theme: 'light'
-tags: 
-- docker
-- es
+tags:
+  - docker
+  - es
 ---
 ## 一、ElasticSearch安装部署
 
