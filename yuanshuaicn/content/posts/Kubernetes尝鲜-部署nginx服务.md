@@ -1,9 +1,11 @@
 ---
 title: Kubernetes尝鲜-部署nginx服务
-date: 2023-07-19 18:12:20.377
-author: 'yuanshuai'
-cover: 'https://aabb-2023.oss-cn-beijing.aliyuncs.com/1_nHbVIh84m4Rw8_hDPwfDZg.png'
-theme: 'light'
+date: 2023-10-19 18:12:20.377
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
+  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags: 
 - docker
 - k8s

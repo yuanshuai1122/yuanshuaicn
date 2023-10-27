@@ -1,9 +1,11 @@
 ---
 title: webApis05-swiper插件、window对象、定时器、location
 date: 2022-08-14 17:57:12.834
-author: 'yuanshuai'
-cover: 'https://aabb-2023.oss-cn-beijing.aliyuncs.com/%E4%B8%8B%E8%BD%BD%20(1).png'
-theme: 'light'
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
+  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags: 
 - javascript
 - webapi

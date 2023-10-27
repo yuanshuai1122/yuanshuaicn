@@ -1,21 +1,14 @@
 ---
 title: Docker之DockerFile解析
-date: 2021-posts-23 23:04:18.992
+date: 2021-03-23 23:04:18.992
 tags: 
 - docker
-author: 'yuanshuai'
-cover: 'https://yuan-halo.oss-cn-beijing.aliyuncs.com/homepage-docker-logo.png'
-theme: 'light'
----
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
 
---------welcome------------ 
-    <%="i am in docker tomcat self "%> 
-    <br> 
-    <br> 
-    <% System.out.println("=============docker tomcat self");%> 
-  </body> 
-</html> 
-```
+---
 
 - 测试
 

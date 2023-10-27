@@ -1,9 +1,11 @@
 ---
 title: 死磕juc（二）java的“锁”事（1）
 date: 2022-08-09 20:51:10.388
-author: 'yuanshuai'
-cover: 'https://aabb-2023.oss-cn-beijing.aliyuncs.com/hqdefault.jpg'
-theme: 'light'
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
+  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags: 
 - juc
 - 并发

@@ -1,9 +1,11 @@
 ---
 title: 白话容器基础（三）：深入理解容器镜像
 date: 2022-07-19 18:35:50.285
-author: 'yuanshuai'
-cover: 'https://aabb-2023.oss-cn-beijing.aliyuncs.com/1_nHbVIh84m4Rw8_hDPwfDZg.png'
-theme: 'light'
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
+  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags: 
 - docker
 - k8s

@@ -1,9 +1,11 @@
 ---
 title: 微信登录实现（PC端）
 date: 2022-07-12 17:58:33.43
-author: 'yuanshuai'
-cover: 'https://aabb-2023.oss-cn-beijing.aliyuncs.com/Gmq4OWxJZ6wD0x1tMzI4.webp'
-theme: 'light'
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
+  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags: 
 - 微信
 - OAuth2.0

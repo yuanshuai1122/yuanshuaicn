@@ -1,9 +1,10 @@
 ---
 title: JVM内存与垃圾回收篇第3章运行时数据区概述及线程
-date: 2021-posts-30 10:58:28.784
-author: 'yuanshuai'
-cover: 'https://yuan-halo.oss-cn-beijing.aliyuncs.com/jjjvm.jpg'
-theme: 'light'
+date: 2022-03-19 18:12:20.377
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
 tags: 
 - Java
 - JVM

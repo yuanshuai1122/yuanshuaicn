@@ -1,9 +1,10 @@
 ---
 title: BTC-数据结构
-date: 2022-posts-09 12:49:44.675
-author: 'yuanshuai'
-cover: 'https://aabb-2023.oss-cn-beijing.aliyuncs.com/BTC-PRICE-ANALYSIS-18.10.2023.jpg'
-theme: 'light'
+date: 2022-11-09 12:49:44.675
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
 tags: 
 - BTC
 ---

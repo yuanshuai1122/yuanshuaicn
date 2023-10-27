@@ -1,9 +1,11 @@
 ---
 title: SpringMVC之常用注解
-date: 2021-posts-26 21:32:26.899
-author: 'yuanshuai'
-cover: 'https://yuan-halo.oss-cn-beijing.aliyuncs.com/0820590.png'
-theme: 'light'
+date: 2021-07-21 18:38:23.971
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
+  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags: 
 - Java
 - SpringMVC

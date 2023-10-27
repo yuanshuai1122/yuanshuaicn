@@ -1,9 +1,11 @@
 ---
 title: webAPIs03-属性选择器、环境对象this、事件、页面对象
 date: 2022-08-10 17:55:05.136
-author: 'yuanshuai'
-cover: 'https://aabb-2023.oss-cn-beijing.aliyuncs.com/%E4%B8%8B%E8%BD%BD%20(1).png'
-theme: 'light'
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
+  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags: 
 - javascript
 - webapi

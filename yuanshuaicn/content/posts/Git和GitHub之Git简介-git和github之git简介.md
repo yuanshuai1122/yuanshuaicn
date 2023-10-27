@@ -1,9 +1,10 @@
 ---
 title: Git和GitHub之Git简介
-date: 2021-posts-23 23:09:44.312
-author: 'yuanshuai'
-cover: 'https://yuan-halo.oss-cn-beijing.aliyuncs.com/1_dDNpLKu_oTLzStsDTnkJ-g.png'
-theme: 'light'
+date: 2021-02-23 23:10:02.488
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
 tags: 
 - git
 - github

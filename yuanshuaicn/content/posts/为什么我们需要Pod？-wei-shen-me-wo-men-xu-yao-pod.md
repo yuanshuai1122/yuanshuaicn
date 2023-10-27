@@ -1,9 +1,11 @@
 ---
 title: 为什么我们需要Pod？
 date: 2022-07-20 18:38:23.971
-author: 'yuanshuai'
-cover: 'https://aabb-2023.oss-cn-beijing.aliyuncs.com/1_nHbVIh84m4Rw8_hDPwfDZg.png'
-theme: 'light'
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
+  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags: 
 - k8s
 - pod

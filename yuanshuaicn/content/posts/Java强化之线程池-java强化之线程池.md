@@ -1,9 +1,10 @@
 ---
 title: Java强化之线程池
 date: 2021-12-03 18:17:42.498
-author: 'yuanshuai'
-cover: 'https://yuan-halo.oss-cn-beijing.aliyuncs.com/v2-2c82c1cbb0b5af2f8bab6cd772541a8a_250x0.png'
-theme: 'light'
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
 tags: 
 - Java
 ---

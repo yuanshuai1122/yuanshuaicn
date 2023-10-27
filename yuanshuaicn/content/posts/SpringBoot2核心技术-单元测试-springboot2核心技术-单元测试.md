@@ -1,9 +1,11 @@
 ---
 title: SpringBoot2核心技术-单元测试
-date: 2021-posts-26 21:33:04.256
-author: 'yuanshuai'
-cover: 'https://yuan-halo.oss-cn-beijing.aliyuncs.com/1_98O4Gb5HLSlmdUkKg1DP1Q.png'
-theme: 'light'
+date: 2021-07-23 18:38:23.971
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
+  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags: 
 - Java
 - SpringBoot

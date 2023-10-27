@@ -1,34 +1,14 @@
 ---
 title: Vue之事件监听
-date: 2021-posts-30 10:43:18.223
-author: 'yuanshuai'
-cover: 'https://yuan-halo.oss-cn-beijing.aliyuncs.com/1_7OCwu--TWqVluPMsZdzWKw-34ce1bcaed3b4c59a2183cf00af73987_1622733997113.png'
-theme: 'light'
+date: 2021-07-20 18:38:23.971
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
+  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags: 
 - Vue
 ---
-
------', event);
-      },
-      btn3Click(abc, event) {
-        console.log('++++++++', abc, event);
-      }
-    }
-  })
-
-  // 如果函数需要参数,但是没有传入, 那么函数的形参为undefined
-  // function abc(name) {
-  //   console.log(name);
-  // }
-  //
-  // abc()
-</script>
-
-</body>
-</html>
-```
-
-
 
 ## 三、v-on修饰符
 

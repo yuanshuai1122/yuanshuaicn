@@ -1,9 +1,11 @@
 ---
 title: webApis07-元字符、正则表达式、change事件、检测包含类
 date: 2022-08-14 20:14:19.639
-author: 'yuanshuai'
-cover: 'https://aabb-2023.oss-cn-beijing.aliyuncs.com/%E4%B8%8B%E8%BD%BD%20(1).png'
-theme: 'light'
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
+  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags: 
 - javascript
 - webapi

@@ -1,9 +1,10 @@
 ---
 title: JVM内存与垃圾回收篇第5章虚拟机栈
-date: 2021-posts-30 10:58:37.158
-author: 'yuanshuai'
-cover: 'https://yuan-halo.oss-cn-beijing.aliyuncs.com/jjjvm.jpg'
-theme: 'light'
+date: 2022-03-19 18:12:20.377
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
 tags: 
 - Java
 - JVM

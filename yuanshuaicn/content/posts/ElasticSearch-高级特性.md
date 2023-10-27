@@ -1,9 +1,10 @@
 ---
 title: ElasticSearch-高级特性
 date: 2023-07-19 18:12:20.377
-author: 'yuanshuai'
-cover: 'https://aabb-2023.oss-cn-beijing.aliyuncs.com/1_DfBbVqPXfIXGFQCa1BrV8g.jpg'
-theme: 'light'
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
 tags: 
 - docker
 - es

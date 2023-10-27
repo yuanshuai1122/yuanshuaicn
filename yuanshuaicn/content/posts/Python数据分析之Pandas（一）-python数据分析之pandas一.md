@@ -1,9 +1,11 @@
 ---
 title: Python数据分析之Pandas（一）
-date: 2021-posts-26 21:52:58.514
-author: 'yuanshuai'
-cover: 'https://yuan-halo.oss-cn-beijing.aliyuncs.com/v2-2103a9f9659baf7be26d40fe5b4e9f1f_1440w.jpg'
-theme: 'light'
+date: 2021-10-24 18:38:23.971
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
+  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags: 
 - Python
 - 数据分析

@@ -1,9 +1,11 @@
 ---
 title: 一文通关之MybatisPlus
-date: 2021-posts-24 08:53:06.744
-author: 'yuanshuai'
-cover: 'https://yuan-halo.oss-cn-beijing.aliyuncs.com/relationship-with-mybatis.png'
-theme: 'light'
+date: 2021-07-20 18:38:23.971
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
+  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags: 
 - mybatisplus
 ---

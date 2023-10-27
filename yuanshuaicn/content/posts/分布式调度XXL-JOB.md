@@ -1,9 +1,11 @@
 ---
 title: 分布式调度XXL-JOB
-date: 2022-07-20 18:38:23.971
-author: 'yuanshuai'
-cover: 'https://aabb-2023.oss-cn-beijing.aliyuncs.com/CleanShot%202023-10-25%20at%2013.37.09.png'
-theme: 'light'
+date: 2023-04-19 18:12:20.377
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
+  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags: 
 - k8s
 - pod

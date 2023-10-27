@@ -1,9 +1,11 @@
 ---
 title: 白话容器基础（一）：从进程说开去
 date: 2022-07-19 18:12:20.377
-author: 'yuanshuai'
-cover: 'https://aabb-2023.oss-cn-beijing.aliyuncs.com/1_nHbVIh84m4Rw8_hDPwfDZg.png'
-theme: 'light'
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
+  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags: 
 - docker
 - k8s

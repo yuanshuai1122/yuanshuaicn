@@ -1,9 +1,10 @@
 ---
 title: JavaScript进阶-01
 date: 2022-08-22 12:52:31.538
-author: 'yuanshuai'
-cover: 'https://yuan-halo.oss-cn-beijing.aliyuncs.com/wallhaven-o38w67_1920x1080.png'
-theme: 'light'
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
 tags: 
 - javascript
 ---

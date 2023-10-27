@@ -1,10 +1,12 @@
 ---
 title: Java9-Java17新特性
-date: 2022-posts-09 12:36:07.568
-author: 'yuanshuai'
-cover: 'https://aabb-2023.oss-cn-beijing.aliyuncs.com/Java-Logo.png'
+date: 2023-09-09 12:36:07.568
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
 tags: ["BTC", "web3.0"]
-theme: 'light'
+
 ---
 ###  Java为什么要变？
 

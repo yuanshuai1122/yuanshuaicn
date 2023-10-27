@@ -1,9 +1,11 @@
 ---
-title: 第五课：图片放大和辅助处理手段
+title: AI绘画第五课：图片放大和辅助处理手段
 date: 2023-10-12 18:49:55.373
-author: 'yuanshuai'
-cover: 'https://aabb-2023.oss-cn-beijing.aliyuncs.com/CleanShot%202023-10-25%20at%2013.41.52.png'
-theme: 'light'
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
+  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags:
 - AI
 - 绘画

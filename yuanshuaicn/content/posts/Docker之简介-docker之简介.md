@@ -1,9 +1,10 @@
 ---
 title: Docker之简介
-date: 2021-posts-23 23:03:55.219
-author: 'yuanshuai'
-cover: 'https://yuan-halo.oss-cn-beijing.aliyuncs.com/homepage-docker-logo.png'
-theme: 'light'
+date: 2021-03-23 23:04:09.365
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
 tags: 
 - docker
 ---

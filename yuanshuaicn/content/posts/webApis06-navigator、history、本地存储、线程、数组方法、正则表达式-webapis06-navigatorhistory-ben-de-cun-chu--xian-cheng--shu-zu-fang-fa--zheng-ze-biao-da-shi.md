@@ -1,9 +1,11 @@
 ---
 title: webApis06-navigator、history、本地存储、线程、数组方法、正则表达式
 date: 2022-08-14 17:57:58.329
-author: 'yuanshuai'
-cover: 'https://aabb-2023.oss-cn-beijing.aliyuncs.com/%E4%B8%8B%E8%BD%BD%20(1).png'
-theme: 'light'
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
+  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags: 
 - javascript
 - webapi

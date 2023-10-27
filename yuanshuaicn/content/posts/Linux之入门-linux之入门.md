@@ -1,9 +1,11 @@
 ---
 title: Linux之入门
-date: 2021-posts-24 08:51:13.621
-author: 'yuanshuai'
-cover: 'https://yuan-halo.oss-cn-beijing.aliyuncs.com/1_ABo4dTsrgA7UboVI7c6yIA.jpeg'
-theme: 'light'
+date: 2021-12-24 18:38:23.971
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
+  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags: 
 - linux
 - 操作系统

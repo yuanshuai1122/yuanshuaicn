@@ -33,7 +33,7 @@ identifier = "posts"
 pre = ""
 # you can add extra information after the name (HTML format is supported), such as icons
 post = ""
-name = "Posts"
+name = "文章"
 url = "/posts/"
 # title will be shown when you hover on this menu link
 title = ""
@@ -52,7 +52,7 @@ type = ""
 identifier = "categories"
 pre = ""
 post = ""
-name = "Categories"
+name = "分类"
 url = "/categories/"
 title = ""
 weight = 2
@@ -62,7 +62,7 @@ icon = "fa-solid fa-th"
 identifier = "tags"
 pre = ""
 post = ""
-name = "Tags"
+name = "标签"
 url = "/tags/"
 title = ""
 weight = 3
@@ -80,7 +80,7 @@ version = "0.2.X" # e.g. "0.2.X", "0.2.15", "v0.2.15" etc.
 # site description
 description = ""
 # site keywords
-keywords = ["Hugo", "FixIt"]
+keywords = ["yuanshuai", "blog"]
 # site default theme ["light", "dark", "auto"]
 defaultTheme = "auto"
 # public git repo url only then enableGitInfo is true
@@ -103,7 +103,7 @@ disableThemeInject = false
 # FixIt 0.2.0 | NEW App icon config
 [params.app]
 # optional site title override for the app when added to an iOS home screen or Android launcher
-title = "FixIt"
+title = "CN.yuanshuai"
 # whether to omit favicon resource links
 noFavicon = false
 # modern SVG favicon to use in place of older style .png and .ico files

@@ -1,9 +1,11 @@
 ---
 title: Redis之NoSql入门和概述
-date: 2021-posts-26 21:30:33.958
-author: 'yuanshuai'
-cover: 'https://yuan-halo.oss-cn-beijing.aliyuncs.com/1498119653712274.png'
-theme: 'light'
+date: 2021-09-24 18:38:23.971
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
+  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags: 
 - 数据库
 - Redis

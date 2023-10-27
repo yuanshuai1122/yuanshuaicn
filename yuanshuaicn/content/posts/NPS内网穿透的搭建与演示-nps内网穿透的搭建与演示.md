@@ -1,9 +1,11 @@
 ---
 title: NPS内网穿透的搭建与演示
-date: 2021-posts-23 23:16:13.697
-author: 'yuanshuai'
-cover: 'https://yuan-halo.oss-cn-beijing.aliyuncs.com/mysql.png'
-theme: 'light'
+date: 2021-10-25 18:38:23.971
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
+  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags: 
 - 计算机网络
 ---

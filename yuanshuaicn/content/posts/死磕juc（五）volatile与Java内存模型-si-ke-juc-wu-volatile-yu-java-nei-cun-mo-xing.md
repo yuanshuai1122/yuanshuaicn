@@ -1,9 +1,11 @@
 ---
 title: 死磕juc（五）volatile与Java内存模型
 date: 2022-08-29 12:35:28.948
-author: 'yuanshuai'
-cover: 'https://aabb-2023.oss-cn-beijing.aliyuncs.com/hqdefault.jpg'
-theme: 'light'
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
+  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags: 
 - juc
 ---

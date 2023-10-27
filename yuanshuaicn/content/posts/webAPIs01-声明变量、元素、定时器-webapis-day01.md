@@ -1,9 +1,11 @@
 ---
 title: webAPIs01-声明变量、元素、定时器
 date: 2022-08-10 17:33:45.847
-author: 'yuanshuai'
-cover: 'https://aabb-2023.oss-cn-beijing.aliyuncs.com/%E4%B8%8B%E8%BD%BD%20(1).png'
-theme: 'light'
+author:
+   name: "yuanshuai"
+   link: "https://cloud.tencent.com/developer/user/8180692"
+   email: "shuaiyuan1122@gmail.com"
+   avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags: 
 - javascript
 - webapi

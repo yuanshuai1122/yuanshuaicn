@@ -1,9 +1,11 @@
 ---
 title: 深入拆解Tomcat和Jetty之必备基础
-date: 2021-posts-26 22:posts:09.148
-author: 'yuanshuai'
-cover: 'https://yuan-halo.oss-cn-beijing.aliyuncs.com/Apache_Tomcat_logo.svg.png'
-theme: 'light'
+date: 2021-03-19 18:12:20.377
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
+  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags: 
 - Java
 - Tomcat

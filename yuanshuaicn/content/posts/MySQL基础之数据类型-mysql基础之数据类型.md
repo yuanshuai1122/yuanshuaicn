@@ -1,9 +1,11 @@
 ---
 title: MySQL基础之数据类型
-date: 2021-posts-24 08:53:53.358
-author: 'yuanshuai'
-cover: 'https://yuan-halo.oss-cn-beijing.aliyuncs.com/mysql.png'
-theme: 'light'
+date: 2021-11-24 18:38:23.971
+author:
+  name: "yuanshuai"
+  link: "https://cloud.tencent.com/developer/user/8180692"
+  email: "shuaiyuan1122@gmail.com"
+  avatar: "https://aabb-2023.oss-cn-beijing.aliyuncs.com/hjscijg3uw.png"
 tags: 
 - mysql
 - 数据库
