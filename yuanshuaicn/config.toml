@@ -8,7 +8,7 @@
 # See: https://fixit.lruihao.cn/documentation/basics/#menu-configuration
 # -------------------------------------------------------------------------------------
 title = "CN.yuanshuai"
-baseURL = "http://yuanshuai1122.github.io/"
+baseURL = "http://blog.yuanshuaicn.com/"
 # 设置默认的语言 ["en", "zh-cn", "fr", "pl", ...]
 defaultContentLanguage = "zh-cn"
 # 网站语言, 仅在这里 CN 大写 ["en", "zh-CN", "fr", "pl", ...]
